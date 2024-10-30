@@ -1,0 +1,45 @@
+.container{
+    width: 50vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container2{
+    text-align: center;
+    background-color: burlywood;
+}
+
+.logo{
+    width: 25%;
+}
+
+.main{
+    width: 50vw;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    width: 50vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.videobakery{
+    width: 50vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.subtitle{
+    color: blanchedalmond;
+}
+
+a:hover{
+color: red;
+}
+
+.subvideo{
+    color: gray;
+}
+
