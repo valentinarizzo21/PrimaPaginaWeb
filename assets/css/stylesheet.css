@@ -26,7 +26,7 @@
     text-align: center;
 }
 
-.videobakery{
+.focaccia{
     width: 50vw;
     margin: 0 auto;
     text-align: center;
@@ -42,5 +42,6 @@ color: red;
 
 .subvideo{
     color: gray;
+    text-align: center;
 }
 
